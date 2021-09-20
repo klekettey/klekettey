@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @klekettey
 - 👀 I’m interested in ... Cloud technologies (Azure, GCP, AWS)  
-- 🌱 I’m continuously learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... klekettey32@gmail.com
 
