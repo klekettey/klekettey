@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klekettey
-- 👀 I’m interested in ... Cloud technologies (Azure, GCP, AWS)  
-- 💞️ I’m looking to collaborate on ...
+- 👀 Cloud Monk (Azure, GCP, AWS)  
+- 💞️ DevOps Enthusiast & passionate about helping people build their skils. 
 - 📫 How to reach me ... klekettey32@gmail.com
 
 <!---
